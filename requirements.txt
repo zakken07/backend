@@ -1,2 +1,18 @@
+# FastAPI Core
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Google Generative AI
 google-generativeai==0.3.2
+
+# Image Processing
 Pillow==10.1.0
+
+# Data Validation and Serialization
+pydantic==2.5.0
+
+# HTTP Client (for testing)
+httpx==0.25.2
+
+# Utilities
+python-multipart==0.0.6
